@@ -1,7 +1,7 @@
 # Behind the Numbers: Gross Profit Trends in Tech
 ## Introduction
 
-In this presentation, we will analyze and compare the gross profits of five prominent technology companies over the past few years. The companies under consideration are Twitter, Snap, Pinterest, Match Group, and Zoom. By examining their gross profit trends, we aim to gain insights into their financial performance and identify potential patterns or standout performers in the technology industry.
+In this project, we will analyze and compare the gross profits of five prominent technology companies over the past few years. The companies under consideration are Twitter, Snap, Pinterest, Match Group, and Zoom. By examining their gross profit trends, we aim to gain insights into their financial performance and identify potential patterns or standout performers in the technology industry.
 
 ## Expected Outcomes
 
